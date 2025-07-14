@@ -11,6 +11,3 @@ I'm an Backend/Frontend developer from Indonesia 🇮🇩.
 </p>
 
 <br />
-
-| <a href="https://github.com/PoopEuy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poopeuy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="PoopEuy's github stats" /></a> | <a href="https://github.com/PoopEuy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoopEuy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
